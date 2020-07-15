@@ -7,8 +7,6 @@
 
  - Burn Rate: 5% for every transaction performed on the platform contract.
 
- - Buy Flip Token and receive airdrop from different blockchains. (if you hold FLIP token on Ethereum Blockchain, you will receive free FLIP token on TRON Blockchain and STEEM Blockchain immediately the product is released by August.
-
 - Wagering Fee: You will be charged a 10% fee when you stake with FLIP tokens on our game. The 10% charged is distributed among the users that have frozen their FLIP token. The token loss by players are also distributed to the Stakers. 
 
 # FLIP Token Details.
