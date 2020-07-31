@@ -16,7 +16,7 @@
 - Total Destroyed : 5% on each transfer 
 - Current Supply : 2M
 - Transactions: -
-*[Contract Address](https://etherscan.io/address/0xadc78ad3c1c0200fdef1d7f9c08d698027f01b1b)
+*[Contract Address](https://etherscan.io/token/0xbE3547a464D03b226cF4bE2C48629694450e3773)
 
 *[Our Website and Product demo](https://t.co/kXVWIbMLpp)
 *[Project Doc](shorturl.at/ovI27)
