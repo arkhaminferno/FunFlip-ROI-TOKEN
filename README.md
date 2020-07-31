@@ -22,7 +22,8 @@
 *[Project Doc](shorturl.at/ovI27)
 
 ### Join the early birds and buy/Sell from the following Exchanges.
-- *[UniSwap](https://v1.uniswap.exchange/swap/0xadc78ad3c1c0200fdef1d7f9c08d698027f01b1b)
+- *[UniSwap](https://v1.uniswap.exchange/swap/0xbE3547a464D03b226cF4bE2C48629694450e3773
+)
 
 
 - *[bamboorelay](https://bamboorelay.com/trade/FLIP-WETH)
